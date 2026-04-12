@@ -5,10 +5,8 @@ on:
     # Runs automatically every 24 hours
     - cron: "0 0 * * *"
   
-  # Allows you to manually trigger the workflow
   workflow_dispatch:
   
-  # Runs on every push to the main branch
   push:
     branches:
     - main
@@ -18,8 +16,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
+    # 🛠️ This forces the actions to use Node 24 and removes the warning
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      
     steps:
-      # Generates the snake files
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -30,9 +31,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Pushes the generated snake files to an 'output' branch
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # Bumping to v4 here also helps with Node deprecation warnings
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
