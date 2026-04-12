@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Aryan!&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Developer&descAlignY=51&descAlign=62" alt="Profile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Aryan!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Developer&descAlignY=51&descAlign=62" alt="Profile Banner" />
   
   <h3>Building tools that solve real problems.</h3>
 </div>
