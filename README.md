@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://github.com/Aryans06">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aryans06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"  width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Aryans06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"  width="48%" alt="" />
   </a>
   <a href="https://github.com/Aryans06">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryans06&theme=radical&hide_border=true&background=0D1117" alt="Aryan's GitHub Streak" width="48%" />
