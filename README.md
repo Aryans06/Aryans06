@@ -103,7 +103,7 @@
 
 ## ⚡ Fun Zone
 
-* 🎸 *(Insert your favorite hobby/instrument here)*
+* 🎸 *Fauji Brat.Documentaries/Series Keeps me up.Fan of the fulcrum and Fishbed*
 * ☕ Powered by caffeine and late-night debugging.
 
 ---
