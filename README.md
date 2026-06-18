@@ -98,7 +98,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aryans06&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies" />
+
 
 <br/>
 
