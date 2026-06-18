@@ -17,6 +17,15 @@
 <img src="https://img.shields.io/github/followers/Aryans06?label=Followers&style=flat&color=F85D7F" alt="followers" />
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-44CC11?style=flat" alt="open to work" />
 
+<br/><br/>
+
+<!--
+  FIGHTER JET BANNER (MiG-29 flyby, hosted on Tenor)
+  Want it watermark-proof / fully under your control? Drop a GIF at
+  assets/fighter-jet.gif and swap the src below to ./assets/fighter-jet.gif
+-->
+<img src="https://media.tenor.com/UBO8Ncqf5OYAAAAd/polish-plane-plane.gif" width="70%" alt="MiG-29 fighter jet flyby" />
+
 </div>
 
 ---
@@ -37,7 +46,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/Aryans06/CodeAtlas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryans06&repo=CodeAtlas&theme=radical&hide_border=true&bg_color=0D1117" alt="CodeAtlas" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryans06&repo=CodeAtlas&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="CodeAtlas" />
 </a>
 
 > 🧠 **Your AI-powered developer knowledge engine** — turns scattered code & docs into structured, searchable knowledge using embeddings, vector storage, and cosine similarity.
@@ -48,7 +57,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/Aryans06/git-pulse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryans06&repo=git-pulse&theme=radical&hide_border=true&bg_color=0D1117" alt="git-pulse" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryans06&repo=git-pulse&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="git-pulse" />
 </a>
 
 > ⚡ **AI-powered CLI for Conventional Commits** — analyzes your staged changes and writes clean commit messages with Google Gemini. A global Node CLI for a smoother dev workflow.
@@ -89,20 +98,25 @@
 
 ---
 
-## 📊 GitHub Analytics
+## ✈️ Flight Telemetry <sub><sup>(a.k.a. GitHub Stats)</sup></sub>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryans06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Aryans06&theme=radical&hide_border=true&background=0D1117" alt="streak" />
+<!-- Custom HUD palette (pink + amber on cockpit-dark) instead of the stock `radical` theme -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryans06&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Combat%20Record&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&bg_color=0D1117" alt="combat record" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryans06&layout=compact&hide_border=true&langs_count=8&custom_title=Loadout&title_color=F85D7F&text_color=C9D1D9&bg_color=0D1117" alt="loadout" />
 
 <br/>
 
-
+<img width="89%" src="https://streak-stats.demolab.com/?user=Aryans06&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryans06&theme=react-dark&bg_color=0D1117&color=F85D7F&line=F85D7F&point=ffffff&hide_border=true&area=true" alt="activity graph" width="95%" />
+<img width="89%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryans06&custom_title=Mission%20Activity&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area=true&area_color=F85D7F&hide_border=true" alt="mission activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aryans06&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&title_color=F85D7F&text_color=C9D1D9" alt="trophies" />
 
 </div>
 
