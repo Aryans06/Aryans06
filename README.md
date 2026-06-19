@@ -116,7 +116,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aryans06&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&title_color=F85D7F&text_color=C9D1D9" alt="trophies" />
+
 
 </div>
 
