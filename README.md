@@ -24,7 +24,8 @@
   Want it watermark-proof / fully under your control? Drop a GIF at
   assets/fighter-jet.gif and swap the src below to ./assets/fighter-jet.gif
 -->
-<img src="https://media.tenor.com/UBO8Ncqf5OYAAAAd/polish-plane-plane.gif" width="70%" alt="MiG-29 fighter jet flyby" />
+<h1 text="Bold">Flanker Says Hello </h1>
+<img src="https://i0.wp.com/myvoice.opindia.com/wp-content/uploads/sites/3/2019/03/D0lyV6rWsAALEvH.jpg?fit=768%2C512&ssl=1" width="70%" alt="Sukhoi fighter jet flyby" />
 
 </div>
 
