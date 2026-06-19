@@ -103,7 +103,7 @@
 <div align="center">
 
 <!-- Custom HUD palette (pink + amber on cockpit-dark) instead of the stock `radical` theme -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryans06&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Combat%20Record&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&bg_color=0D1117" alt="combat record" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryans06&layout=compact&hide_border=true&langs_count=8&custom_title=Loadout&title_color=F85D7F&text_color=C9D1D9&bg_color=0D1117" alt="loadout" />
 
 <br/>
