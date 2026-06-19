@@ -25,7 +25,7 @@
   assets/fighter-jet.gif and swap the src below to ./assets/fighter-jet.gif
 -->
 <h1 text="Bold">Flanker Says Hello </h1>
-<img src="https://i0.wp.com/myvoice.opindia.com/wp-content/uploads/sites/3/2019/03/D0lyV6rWsAALEvH.jpg?fit=768%2C512&ssl=1" width="70%" alt="Sukhoi fighter jet flyby" />
+<img src="https://i.pinimg.com/originals/54/91/cb/5491cb9469c021d36de5a93db6c91077.gif" width="70%" alt="Sukhoi fighter jet flyby" />
 
 </div>
 
